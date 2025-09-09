@@ -1,0 +1,5 @@
+{
+  "name": "Truth Table Decoder",
+  "description": "An interactive tool to create truth tables, generate simplified boolean logic functions, and visualize them as Karnaugh maps, logic circuits, and Verilog code.",
+  "requestFramePermissions": []
+}
